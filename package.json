@@ -18,9 +18,17 @@
     "react-router-dom": "^7.0.0"
   },
   "devDependencies": {
+    "@eslint-react/eslint-plugin": "^5.30.6",
+    "@eslint/css": "^2.0.1",
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.1.1",
+    "@eslint/markdown": "^9.0.0",
+    "@eslint/shell": "^0.1.2",
     "@tailwindcss/vite": "^4.0.0",
     "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^10.15.0",
     "gh-pages": "^6.2.0",
+    "globals": "^17.14.0",
     "tailwindcss": "^4.0.0",
     "vite": "^6.0.0"
   }
