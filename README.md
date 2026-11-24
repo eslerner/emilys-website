@@ -18,7 +18,3 @@ Built with React, Vite, Tailwind CSS, and React Router, configured for GitHub Pa
    ```bash
    npm run deploy
    ```
-
-## Customization
-
-Edit `src/data/siteData.js` to update your bio, social links, portfolio projects, and blog posts.
