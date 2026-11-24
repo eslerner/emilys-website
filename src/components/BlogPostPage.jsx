@@ -9,7 +9,9 @@ export default function BlogPostPage() {
   if (!post) {
     return (
       <div className="py-20 text-center">
-        <h2 className="text-2xl font-bold text-espresso mb-4">Post not found</h2>
+        <h2 className="text-2xl font-bold text-espresso mb-4">
+          Post not found
+        </h2>
         <Link to="/" className="text-terracotta hover:underline">
           Return home
         </Link>

@@ -2,7 +2,6 @@ import { Mail } from 'lucide-react';
 import { GithubIcon, LinkedinIcon } from './Icons';
 import { profileData, landingPageText } from '../data/siteData';
 
-
 export default function About() {
   return (
     <section id="about" className="py-20 border-b border-clay">

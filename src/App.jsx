@@ -21,7 +21,7 @@ export default function App() {
     <HashRouter>
       <div className="min-h-screen bg-cream text-espresso selection:bg-blush">
         <Navbar />
-        
+
         <main className="max-w-4xl mx-auto px-6">
           <Routes>
             <Route path="/" element={<HomePage />} />
@@ -30,7 +30,8 @@ export default function App() {
         </main>
 
         <footer className="border-t border-clay py-8 mt-12 text-center text-sm text-taupe">
-          © {new Date().getFullYear()} {profileData.fullName}. Built with React & Tailwind CSS.
+          © {new Date().getFullYear()} {profileData.fullName}. Built with React
+          & Tailwind CSS.
         </footer>
       </div>
     </HashRouter>
