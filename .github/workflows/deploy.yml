@@ -29,7 +29,7 @@ jobs:
         run: npm run build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v7
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./dist # change to .build if not using vite (pure react)
 
