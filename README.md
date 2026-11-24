@@ -1,4 +1,4 @@
-# Personal Website (`emilylerner.online`)
+# My personal webpage
 
 Built with React, Vite, Tailwind CSS, and React Router, configured for GitHub Pages with a custom domain.
 
