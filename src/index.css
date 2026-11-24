@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #FAF6F1;        /* Main page background (warm linen) */
+  --color-sand: #F2EAE1;         /* Card & pill surfaces */
+  --color-clay: #E3D5C8;         /* Borders & dividers */
+  --color-espresso: #3A2E2A;     /* Primary headings & body text */
+  --color-taupe: #7A6860;        /* Secondary / muted text */
+  --color-terracotta: #C87D6B;   /* Primary accent (buttons, active links, hover) */
+  --color-rose-clay: #B56557;    /* Darker hover accent */
+  --color-blush: #F3DFDA;        /* Soft highlight background */
+  --color-sage: #6E826B;         /* Secondary earthy accent for tags */
+  --color-sage-soft: #E6ECE5;    /* Soft sage badge background */
+}
+
+html {
+  scroll-behavior: smooth;
+}
