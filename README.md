@@ -17,6 +17,4 @@ Built with React, Vite, Tailwind CSS, and React Router, configured for GitHub Pa
    ```
 
 3. Deploy to GitHub Pages:
-   ```bash
-   npm run deploy
-   ```
+New page will deploy upon push to main via github actions.
