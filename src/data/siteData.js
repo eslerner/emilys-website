@@ -57,7 +57,7 @@ export const projectsData = [
       'Browser-based utility for extracting accessible color palettes.',
     tags: ['React', 'TypeScript', 'CSS'],
     repoUrl: 'https://github.com/eslerner/color-picker',
-    // liveUrl: "https://emilylerner.online" # TODO: deploy to github pages
+    liveUrl: "https://colorpicker.emilylerner.online",
   },
 ];
 
